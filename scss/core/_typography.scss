@@ -1,16 +1,41 @@
-h1, h2, h3, h4, h5, h6, p, ul {
-	margin: 0 0 24px 0;
+/**
+* General typesetting
+*/
+body {
+	font-family: $font;
+	color: $dark;
 }
 
-h1 { font-size: 36px; line-height: 44px; }
-h2 { font-size: 30px; line-height: 38px; }
-h3 { font-size: 24px; line-height: 32px; }
-h4 { font-size: 21px; line-height: 29px; }
-h5 { font-size: 18px; line-height: 24px; }
-h6 { font-size: 16px; line-height: 24px; }
+/**
+* Headings
+*/
+// General
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 12px 0;
+	line-height: 1.5;
+}
 
-p, li { font-size: 16px; line-height: 24px; }
+// Medium up
+@include breakpoint(medium) {
+	h1 { font-size: 2.5em; }
+	h2 { font-size: 2.1em; }
+	h3 { font-size: 1.7em; }
+	h4 { font-size: 1.3em; }
+	h5 { font-size: 1.175em; }
+	h6 { font-size: 1em; }
+}
 
+// Small
+@include breakpoint(small only) {
+	h1 { font-size: 2em; }
+	h2 { font-size: 1.8em; }
+	h3 { font-size: 1.6em; }
+	h4 { font-size: 1.4em; }
+	h5 { font-size: 1.2em; }
+	h6 { font-size: 1em; }
+}
+
+// Headings following paragraphs
 p + h2,
 p + h3,
 p + h4,
@@ -22,4 +47,16 @@ ul + h4,
 ul + h5,
 ul + h6 {
     margin-top: 36px;
+}
+
+/**
+* Body Copy
+*/
+p, li { font-size: 1em; line-height: 1.5; }
+
+/**
+* Links
+*/
+a {
+	transition: .2s ease all;
 }

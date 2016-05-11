@@ -1,0 +1,41 @@
+/** Cover Image (Background) */
+.cover-image {
+    background-size: cover;
+    background-position: center;
+}
+
+/** Default content padding */
+.padded {
+    padding: $spacingUnit*2 0;
+}
+    .padded--double {
+        padding: $spacingUnit*4 0;
+    }
+
+/** Row gutter tweaks */
+.row--gutter-zero {
+    padding-left: 0;
+    padding-right: 0;
+    & > .columns {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/** Text alignment helplers */
+@each $size in $breakpoint-classes {
+  @include breakpoint($size) {
+    @each $align in (left, right, center, justify) {
+      @if $size != 'small' {
+        .#{$size}-text-#{$align} {
+          text-align: $align;
+        }
+      }
+      @else {
+        .text-#{$align} {
+          text-align: $align;
+        }
+      }
+    }
+  }
+}

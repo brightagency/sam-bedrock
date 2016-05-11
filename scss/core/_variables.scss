@@ -1,0 +1,29 @@
+/**
+* Typography
+*/
+$font: 'Helvetica', 'Arial', sans-serif;
+
+/**
+* Layout
+*/
+$spacingUnit: 24px;
+
+/**
+* Colours
+*/
+// Theme colours
+
+// Shader Colors
+$white: #fff;
+$shade: lighten(black, 90%);
+$shadow: lighten(black, 50%);
+$dark: lighten(black,20%);
+$black: #000;
+
+// Shader helper variables
+$shaders: ($white, $shade, $shadow, $dark, $black);
+$shader-classes: (white, shade, shadow, dark, black);
+
+// Color helper variables
+$colors: (  ); // Put all theme colors in this list
+$color-classes: (  ); // Put the corresponding color names in this list
