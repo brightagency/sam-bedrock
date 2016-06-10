@@ -16,6 +16,7 @@ function bedrock_scripts() {
     wp_enqueue_script( 'foundation', get_template_directory_uri() . '/bower_components/foundation-sites/dist/foundation.min.js', null, '6.0.4', true );
 
     // Custom scripts
+    wp_enqueue_script( 'matchHeight', get_template_directory_uri() . '/bower_components/matchHeight/dist/jquery.matchHeight-min.js', null, null, true );
 
     // User scripts
     wp_enqueue_script( 'app', get_template_directory_uri() . '/js/app-min.js', null, null, true );
