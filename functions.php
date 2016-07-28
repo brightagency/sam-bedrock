@@ -85,7 +85,7 @@ function bedrock_ancestor_id()
 }
 
 // Custom list pages with root page included
-function list_pages_with_intro( $args) {
+function list_pages_with_intro( $args ) {
 
     global $post;
 
