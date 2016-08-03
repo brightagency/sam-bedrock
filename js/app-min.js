@@ -1,1 +1,0 @@
-"use strict";$(document).foundation(),$(function(){window.console.log("Now Running: Sam Bedrock Theme")});

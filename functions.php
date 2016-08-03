@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| 0. Enqueue scripts
+| Enqueue scripts
 |--------------------------------------------------------------------------
 */
 
@@ -16,11 +16,11 @@ function bedrock_scripts() {
     wp_enqueue_script( 'foundation', get_template_directory_uri() . '/bower_components/foundation-sites/dist/foundation.min.js', null, '6.0.4', true );
 
     // Custom scripts
-    wp_enqueue_script( 'matchHeight', 'https://use.fontawesome.com/92d1da124e.js', null, null, true );
-    wp_enqueue_script( 'fontawesome', get_template_directory_uri() . '/bower_components/matchHeight/dist/jquery.matchHeight-min.js', null, null, true );
+    wp_enqueue_script( 'fontawesome', 'https://use.fontawesome.com/92d1da124e.js', null, null, true );
+    wp_enqueue_script( 'matchHeight', get_template_directory_uri() . '/bower_components/matchHeight/dist/jquery.matchHeight-min.js', null, null, true );
 
     // User scripts
-    wp_enqueue_script( 'app', get_template_directory_uri() . '/js/app-min.js', null, null, true );
+    wp_enqueue_script( 'app', get_template_directory_uri() . '/js/min/app-min.js', null, null, true );
 
 }
 
@@ -29,7 +29,7 @@ add_action( 'wp_enqueue_scripts', 'bedrock_scripts' );
 
 /*
 |--------------------------------------------------------------------------
-| 1. Basic setup
+| Basic setup
 |--------------------------------------------------------------------------
 */
 
@@ -48,7 +48,7 @@ add_theme_support( 'post-thumbnails' );
 
 /*
 |--------------------------------------------------------------------------
-| 2. Post thumbnails
+| Post thumbnails
 |--------------------------------------------------------------------------
 */
 
@@ -67,12 +67,12 @@ add_filter( 'intermediate_image_sizes_advanced', 'bedrock_drop_default_image_siz
 
 /*
 |--------------------------------------------------------------------------
-| 3. Functions
+| Functions
 |--------------------------------------------------------------------------
 */
 
 // Grab highest ancestor page ID
-function bedrock_ancestor_id()
+function frg_ancestor_id()
 {
     global $post;
 
@@ -85,7 +85,7 @@ function bedrock_ancestor_id()
 }
 
 // Custom list pages with root page included
-function list_pages_with_intro( $args ) {
+function frg_list_pages_with_intro( $args ) {
 
     global $post;
 
