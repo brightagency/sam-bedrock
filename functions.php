@@ -6,8 +6,9 @@
 |--------------------------------------------------------------------------
 */
 
-function bedrock_scripts() {
-
+function bedrock_scripts_styles() {
+	
+	// SCRIPTS
     wp_deregister_script( 'jquery' );
 
     // Core scripts
@@ -21,10 +22,13 @@ function bedrock_scripts() {
 
     // User scripts
     wp_enqueue_script( 'app', get_template_directory_uri() . '/js/min/app-min.js', null, null, true );
+	
+
+	// STYLES
+	wp_enqueue_style('main', get_template_directory_uri() . '/style.css?v=' . md5_file(get_template_directory_uri() . '/style.css'));
 
 }
-
-add_action( 'wp_enqueue_scripts', 'bedrock_scripts' );
+add_action( 'wp_enqueue_scripts', 'bedrock_scripts_styles' );
 
 
 /*
