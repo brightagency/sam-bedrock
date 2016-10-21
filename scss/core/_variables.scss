@@ -6,24 +6,28 @@ $font: 'Helvetica', 'Arial', sans-serif;
 /**
 * Layout
 */
-$spacingUnit: 24px;
+$vertical-rhythm: 1.5rem;
+$spacingUnit: $vertical-rhythm;
 
 /**
 * Colours
 */
 // Theme colours
+$primary: ;
+$secondary: ;
+$tertiary: ;
 
 // Shader Colors
-$white: #fff;
-$shade: lighten(black, 90%);
-$shadow: lighten(black, 50%);
-$dark: lighten(black,20%);
-$black: #000;
+$white: hsl(0, 0, 100%);
+$shade: hsl(0, 0, 90%);
+$shadow: hsl(0, 0, 50%);
+$dark: hsl(0, 0, 20%);
+$black: hsl(0, 0, 0%);
 
 // Shader helper variables
 $shaders: ($white, $shade, $shadow, $dark, $black);
 $shader-classes: (white, shade, shadow, dark, black);
 
 // Color helper variables
-$colors: (  ); // Put all theme colors in this list
-$color-classes: (  ); // Put the corresponding color names in this list
+$colors: ( $primary, $secondary, $tertiary ); // Put all theme colors in this list
+$color-classes: ( primary, secondary, tertiary ); // Put the corresponding color names in this list

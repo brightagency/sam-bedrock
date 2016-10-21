@@ -11,8 +11,12 @@ body {
 */
 // General
 h1, h2, h3, h4, h5, h6 {
-	margin: 0 0 12px 0;
+	margin: 0;
 	line-height: 1.5;
+}
+
+p {
+	margin: 0 0 $vertical-rhythm 0;
 }
 
 // Medium up
@@ -46,13 +50,13 @@ ul + h3,
 ul + h4,
 ul + h5,
 ul + h6 {
-    margin-top: 36px;
+    margin-top: $vertical-rhythm;
 }
 
 /**
 * Body Copy
 */
-p, li { font-size: 1em; line-height: 1.5; }
+p, li { font-size: 1rem; line-height: 1.5; }
 
 /**
 * Links
