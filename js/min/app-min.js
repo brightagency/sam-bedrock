@@ -1,1 +1,1 @@
-"use strict";$(document).foundation(),$(function(){window.console.log("Now Running: Sam Bedrock Theme"),$(".matchHeight").matchHeight()});
+"use strict";$(function(){$(document).foundation(),$(".matchHeight").matchHeight()});

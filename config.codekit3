@@ -249,7 +249,7 @@
 	"\/bower_components\/foundation-sites\/dist\/foundation.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/foundation.js",
 		"oF": 0,
 		"sC": 1,
@@ -1743,7 +1743,7 @@
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.js",
 		"oF": 0,
 		"sC": 1,
@@ -2761,7 +2761,7 @@
 	"\/bower_components\/matchHeight\/jquery.matchHeight.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/matchHeight\/jquery.matchHeight.js",
 		"oF": 0,
 		"sC": 1,
@@ -3491,7 +3491,7 @@
 	"\/bower_components\/what-input\/what-input.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/what-input\/what-input.js",
 		"oF": 0,
 		"sC": 1,
@@ -3536,6 +3536,15 @@
 		"oA": 0,
 		"oAP": "\/js\/min\/app-min.js",
 		"oF": 2,
+		"sC": 3,
+		"tS": 1
+		},
+	"\/js\/components.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/components-min.js",
+		"oF": 2,
 		"sC": 0,
 		"tS": 0
 		},
@@ -3544,6 +3553,30 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/js\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/components-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/min\/components-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/min\/components-min.js.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/js\/min\/components-min.js.map",
+		"oF": 0
+		},
+	"\/js\/modules\/_onLoad.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/modules\/_onLoad-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -5585,7 +5618,7 @@
 	"externalServerAddress": "http:\/\/bedrock.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
-	"jsCheckerReservedNamesString": "",
+	"jsCheckerReservedNamesString": "$",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
