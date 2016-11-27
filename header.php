@@ -11,6 +11,9 @@
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <!-- FontAwesome -->
+    <script src="https://use.fontawesome.com/92d1da124e.js"></script>
+
     <?php wp_head(); ?>
 
 </head>

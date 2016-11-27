@@ -12,7 +12,6 @@ function bedrock_scripts_styles() {
     wp_deregister_script( 'jquery' );
 
     // User scripts
-    wp_enqueue_script( 'fontawesome', 'https://use.fontawesome.com/92d1da124e.js', null, null, false );
     wp_enqueue_script( 'jquery', get_template_directory_uri() . '/bower_components/jquery/dist/jquery.min.js', null, null, false );
     wp_enqueue_script( 'components', get_template_directory_uri() . '/js/min/components-min.js', null, null, true );
     wp_enqueue_script( 'app', get_template_directory_uri() . '/js/min/app-min.js', null, null, true );
