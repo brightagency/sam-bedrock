@@ -1743,7 +1743,7 @@
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.js",
 		"oF": 0,
 		"sC": 1,
@@ -3557,6 +3557,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/min\/app-min.js.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/js\/min\/app-min.js.map",
+		"oF": 0
+		},
 	"\/js\/min\/components-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -4273,7 +4279,7 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 0,
+		"ma": 1,
 		"oA": 0,
 		"oAP": "\/style.css",
 		"oF": 2,
@@ -4295,6 +4301,12 @@
 		"oAP": "\/style-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/style.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/style.css.map",
+		"oF": 0
 		}
 	},
 "hooks": [
