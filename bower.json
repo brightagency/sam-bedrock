@@ -1,18 +1,17 @@
 {
-  "name": "foundation-sites-template",
-  "version": "1.0.0",
+  "name": "sam-bedrock-theme",
+  "version": "1.4.1",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "Sam Davis <sam@sjd.co>"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
-  "main": "index.html",
+  "description": "Boilerplate theme for all new WP Themes made by Sam @ Forge Collective",
+  "main": "index.php",
   "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
   "dependencies": {
-    "foundation-sites": "^6.2.1",
-    "matchHeight": "^0.7.0",
+    "foundation-sites": "6.3",
+    "matchHeight": "^0.7.2",
     "motion-ui": "^1.2.2",
-    "jquery": "^3.1.1"
+    "jquery": "~2.2.0"
   },
   "ignore": [
     "**/.*",
@@ -21,8 +20,5 @@
     "test",
     "tests"
   ],
-  "private": true,
-  "resolutions": {
-    "jquery": "~2.2.0"
-  }
+  "private": true
 }
