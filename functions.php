@@ -70,39 +70,8 @@ add_filter( 'intermediate_image_sizes_advanced', 'bedrock_drop_default_image_siz
 
 /*
 |--------------------------------------------------------------------------
-| Functions
+| Include the Forge class
 |--------------------------------------------------------------------------
 */
 
-// Grab highest ancestor page ID
-function frg_ancestor_id()
-{
-    global $post;
-
-    if ( $post->post_parent ) {
-        $ancestors = array_reverse( get_post_ancestors( $post->ID ) );
-        return $ancestors[0];
-    }
-
-    return $post->ID;
-}
-
-// Custom list pages with root page included
-function frg_list_pages_with_intro( $args ) {
-
-    global $post;
-
-    if ( $post->post_parent ) {
-        $grandfather = array_reverse( get_post_ancestors( $post->ID ) )[0];
-        $is_current_page_item = false;
-    } else {
-        $grandfather = $post->ID;
-        $is_current_page_item = true;
-    }
-
-    ?><li class="page_item page-item-<?php echo $grandfather; ?><?php if ($is_current_page_item) echo " current_page_item"; ?>">
-        <a href="<?php echo the_permalink($grandfather); ?>"><?php echo get_the_title($grandfather) ?> Intro</a>
-    </li><?php
-
-    wp_list_pages( $args );
-}
+include_once get_template_directory() . '/class/class-forge.php';
