@@ -3999,21 +3999,21 @@
 		},
 	"\/class\/class-forge.php": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/class\/class-forge.php",
-		"oF": 0
-		},
-	"\/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/dist\/dist",
-		"oF": 0
+		"oF": 1
 		},
 	"\/footer.php": {
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/dist\/footer.php",
 		"oF": 0
+		},
+	"\/functions.php": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dist\/functions.php",
+		"oF": 1
 		},
 	"\/header.php": {
 		"ft": 8192,
@@ -4787,7 +4787,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 510726620
+	"lastBuiltDate": 510728773
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
