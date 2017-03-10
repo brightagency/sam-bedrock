@@ -27,10 +27,9 @@ class Forge {
 
     /**
      * Mimicks wp_list_pages but includes and Intro page
-     * @param  [type] $args [description]
-     * @return [type]       [description]
+     * @return void
      */
-    function list_pages_with_intro( $args ) {
+    public static function list_pages_with_intro( $args ) {
 
         // Get the current post from the loop
         global $post;
