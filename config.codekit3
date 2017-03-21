@@ -7,7 +7,7 @@
 		"uuidString": "AC41FCB4-6EDE-4360-AEDB-009E97A4BB1A"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -4003,6 +4003,12 @@
 		"oAP": "\/dist\/class\/class-forge.php",
 		"oF": 1
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/dist\/dist",
+		"oF": 0
+		},
 	"\/footer.php": {
 		"ft": 8192,
 		"oA": 0,
@@ -4027,6 +4033,20 @@
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/dist\/node_modules",
+		"oF": 0
+		},
+	"\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/dist\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -4048,10 +4068,12 @@
 	"\/screenshot.png": {
 		"ft": 32768,
 		"iS": 6016,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/screenshot.png",
 		"oF": 1,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/search.php": {
 		"ft": 8192,
@@ -4787,7 +4809,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 510728773
+	"lastBuiltDate": 510844878
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -5459,6 +5481,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -5938,6 +5964,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -6538,7 +6568,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -6631,7 +6662,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
