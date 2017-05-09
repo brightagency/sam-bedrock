@@ -1,15 +1,12 @@
-/** Cover Image (Background) */
-.cover-image {
-    background-size: cover;
-    background-position: center;
-}
-
 /** Default content padding */
 .padded {
-    padding: $spacingUnit*2 0;
+    padding: $spacingUnit*2 0 $spacingUnit;
 }
-    .padded--double {
-        padding: $spacingUnit*4 0;
+    .padded-double {
+        @extend .padded;
+        @include breakpoint(medium) {
+            padding: $spacingUnit*4 0 $spacingUnit*3;
+        }
     }
 
 /** Row gutter tweaks */
