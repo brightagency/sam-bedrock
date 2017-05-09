@@ -1,6 +1,9 @@
 /** Import WordPress stylesheet */
 @import "../../style";
 
+/** Import Internal Deps */
+@import 'sjd-scss';
+
 /** Import the core */
 @import "core/app";
 @import "core/variables";
