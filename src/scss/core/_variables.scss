@@ -17,17 +17,24 @@ $primary: #27a2da;
 $secondary: #1c769f;
 $tertiary: #1c9f60;
 
+$primary: (
+    primary: $primary,
+    secondary: $secondary,
+    tertiary: $tertiary
+);
+
 // Shader Colors
 $white: hsl(0, 0, 100%);
-$shade: hsl(0, 0, 90%);
+$shade: hsl(0, 0, 95%);
 $shadow: hsl(0, 0, 50%);
 $dark: hsl(0, 0, 20%);
 $black: hsl(0, 0, 0%);
 
 // Shader helper variables
-$shaders: ($white, $shade, $shadow, $dark, $black);
-$shader-classes: (white, shade, shadow, dark, black);
-
-// Color helper variables
-$colors: ( $primary, $secondary, $tertiary ); // Put all theme colors in this list
-$color-classes: ( primary, secondary, tertiary ); // Put the corresponding color names in this list
+$shaders: (
+    white: $white,
+    shade: $shade,
+    shadow: $shadow,
+    dark: $dark,
+    black: $black
+);
