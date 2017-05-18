@@ -4,6 +4,8 @@
 |--------------------------------------------------------------------------
 */
 
-// @codekit-prepend: '../../bower_components/what-input/dist/what-input.js'
-// @codekit-prepend: '../../bower_components/foundation-sites/dist/js/foundation.js'
-// @codekit-prepend: '../../bower_components/matchHeight/jquery.matchHeight.js'
+window.$ = jQuery;
+
+// @codekit-prepend: '../../node_modules/what-input/dist/what-input.js'
+// @codekit-prepend: '../../node_modules/foundation-sites/dist/js/foundation.js'
+// @codekit-prepend: '../../node_modules/jquery-match-height/dist/jquery.matchHeight.js'
