@@ -2,6 +2,14 @@
 "AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
 "buildSteps": [
 	{
+		"name": "Install Yarn\/NPM Dependencies",
+		"scriptSourceString": "yarn install --flat",
+		"scriptType": 1,
+		"scriptUUIDString": "B9AC4B79-F8CF-4CBB-8D1D-3050BDEEBA7B",
+		"stepType": 2,
+		"uuidString": "A26DA82C-53A4-41CE-86FD-FD0464F0A949"
+		},
+	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
 		"uuidString": "AC41FCB4-6EDE-4360-AEDB-009E97A4BB1A"
@@ -39,6 +47,12 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/class\/class-forge.php",
+		"oF": 0
+		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/dist\/dist",
 		"oF": 0
 		},
 	"\/footer.php": {
@@ -6404,570 +6418,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/src\/scss\/.sass-cache\/08d2e3b875f2960a5c8f292270798fd45ee496f3\/_global.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/08d2e3b875f2960a5c8f292270798fd45ee496f3\/_global.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/08d2e3b875f2960a5c8f292270798fd45ee496f3\/foundation.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/scss\/.sass-cache\/08d2e3b875f2960a5c8f292270798fd45ee496f3\/foundation.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_checkbox.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_checkbox.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_error.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_error.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_fieldset.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_fieldset.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_forms.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_forms.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_help-text.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_help-text.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_input-group.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_input-group.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_label.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_label.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_select.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_select.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_text.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/134a5c2dec2485b34afd11566d5c9a6b03b86a3d\/_text.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_fade.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_fade.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_hinge.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_hinge.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_slide.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_slide.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_spin.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_spin.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_zoom.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/14a1261219a5dc8baa05d3e97e8fc49daa0fa036\/_zoom.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_animation.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_animation.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_args.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_args.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_keyframe.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_keyframe.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_selector.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_selector.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_series.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_series.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_transition.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_transition.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_unit.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/43bbd3c0697bb5a2213b9b6484c03200d774546d\/_unit.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_alignment.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_alignment.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_base.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_base.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_helpers.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_helpers.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_print.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_print.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_typography.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/65427820ffef9f5a656c0d501ee75965384d0fc6\/_typography.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/6b58f980d2fc9c59959ce34a3aa2cb84f18fa984\/motion-ui.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/scss\/.sass-cache\/6b58f980d2fc9c59959ce34a3aa2cb84f18fa984\/motion-ui.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_classes.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_classes.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_column.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_column.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_flex-grid.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_flex-grid.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_grid.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_grid.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_gutter.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_gutter.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_layout.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_layout.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_position.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_position.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_row.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_row.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_size.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/99323c7975e0807777a36993b4c67308c494ae37\/_size.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_fade.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_fade.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_hinge.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_hinge.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_shake.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_shake.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_slide.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_slide.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_spin.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_spin.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_wiggle.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_wiggle.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_zoom.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/ab3777298906737ba1698bb1d0d102e2d0c14912\/_zoom.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_accordion-menu.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_accordion-menu.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_accordion.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_accordion.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_badge.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_badge.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_breadcrumbs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_breadcrumbs.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_button-group.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_button-group.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_button.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_button.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_callout.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_callout.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_close-button.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_close-button.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_drilldown.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_drilldown.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_dropdown-menu.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_dropdown-menu.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_dropdown.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_dropdown.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_flex-video.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_flex-video.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_float.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_float.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_label.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_label.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_media-object.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_media-object.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_menu.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_menu.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_off-canvas.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_off-canvas.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_orbit.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_orbit.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_pagination.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_pagination.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_progress-bar.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_progress-bar.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_reveal.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_reveal.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_slider.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_slider.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_sticky.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_sticky.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_switch.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_switch.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_table.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_table.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_tabs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_tabs.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_thumbnail.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_thumbnail.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_title-bar.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_title-bar.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_tooltip.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_tooltip.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_top-bar.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_top-bar.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_visibility.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/c8a786379758ec4fbc512b6cfa70a68f74cecb9e\/_visibility.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/dc7ed237a03ba0722e5ffc941cf3206a5d9629d6\/normalize.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/scss\/.sass-cache\/dc7ed237a03ba0722e5ffc941cf3206a5d9629d6\/normalize.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_breakpoint.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_breakpoint.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_color.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_color.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_mixins.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_mixins.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_selector.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_selector.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_unit.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_unit.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_util.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_util.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_value.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/e89af79614c2268ea15b37f5aa3dd28e32b34e0d\/_value.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/_classes.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/_classes.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/_settings.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/_settings.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/motion-ui.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/scss\/.sass-cache\/f0e7d5e1fe1cfb26eb42e3045a0aa8bd2a8ba2dc\/motion-ui.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_app.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_app.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_settings.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_settings.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_theme.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_theme.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_typography.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_typography.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_variables.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_variables.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_wordpress.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/_wordpress.scssc",
-		"oF": 0
-		},
-	"\/src\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/manifest.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/scss\/.sass-cache\/f4b0afe6a4a4897d452e2da17f36cd2b9daf40ef\/manifest.scssc",
-		"oF": 0
-		},
 	"\/src\/scss\/core\/_app.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -7016,6 +6466,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/dist\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/scss\/core\/_settings.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/dist\/css\/_settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -7098,7 +6561,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 516779763
+	"lastBuiltDate": 516780387
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
