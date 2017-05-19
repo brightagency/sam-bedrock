@@ -11,8 +11,8 @@ function bedrock_scripts_styles() {
 	// SCRIPTS
 
     // User scripts
-    wp_enqueue_script( 'components', get_template_directory_uri() . '/dist/js/components-min.js?v=' . md5_file(get_template_directory_uri() . '/dist/js/components-min.js'), ['jquery'], null, true );
-    wp_enqueue_script( 'app', get_template_directory_uri() . '/dist/js/app-min.js?v=' . md5_file(get_template_directory_uri() . '/dist/js/app-min.js'), ['jquery'], null, true );
+    wp_enqueue_script( 'components', get_template_directory_uri() . '/dist/js/components-min.js?v=' . md5_file(get_template_directory() . '/dist/js/components-min.js'), ['jquery'], null, true );
+    wp_enqueue_script( 'app', get_template_directory_uri() . '/dist/js/app-min.js?v=' . md5_file(get_template_directory() . '/dist/js/app-min.js'), ['jquery'], null, true );
 
 	// Pass WordPress data into our JS
 	$js_data = array(
