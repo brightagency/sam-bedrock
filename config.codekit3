@@ -4337,9 +4337,9 @@
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -8468,7 +8468,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSVG": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.svg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
