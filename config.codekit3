@@ -107,7 +107,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.customizer\/js\/vendor\/foundation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/.eslintrc": {
@@ -481,7 +481,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/foundation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/foundation.min.js": {
@@ -490,7 +490,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/foundation.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js": {
@@ -499,7 +499,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js": {
@@ -508,7 +508,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.js": {
@@ -517,7 +517,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js": {
@@ -526,7 +526,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.js": {
@@ -535,7 +535,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js": {
@@ -544,7 +544,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.core.js": {
@@ -553,7 +553,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.core.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js": {
@@ -562,7 +562,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.js": {
@@ -571,7 +571,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js": {
@@ -580,7 +580,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.js": {
@@ -589,7 +589,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js": {
@@ -598,7 +598,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.js": {
@@ -607,7 +607,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js": {
@@ -616,7 +616,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.js": {
@@ -625,7 +625,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js": {
@@ -634,7 +634,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.js": {
@@ -643,7 +643,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js": {
@@ -652,7 +652,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.js": {
@@ -661,7 +661,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js": {
@@ -670,7 +670,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.js": {
@@ -679,7 +679,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js": {
@@ -688,7 +688,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.js": {
@@ -697,7 +697,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js": {
@@ -706,7 +706,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.js": {
@@ -715,7 +715,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js": {
@@ -724,7 +724,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.js": {
@@ -733,7 +733,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js": {
@@ -742,7 +742,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.js": {
@@ -751,7 +751,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js": {
@@ -760,7 +760,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.slider.js": {
@@ -769,7 +769,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.slider.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js": {
@@ -778,7 +778,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.js": {
@@ -787,7 +787,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js": {
@@ -796,7 +796,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.js": {
@@ -805,7 +805,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js": {
@@ -814,7 +814,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.js": {
@@ -823,7 +823,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js": {
@@ -832,7 +832,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.js": {
@@ -841,7 +841,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js": {
@@ -850,7 +850,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.js": {
@@ -859,7 +859,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.js": {
@@ -868,7 +868,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.js": {
@@ -877,7 +877,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.js": {
@@ -886,7 +886,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.js": {
@@ -895,7 +895,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.js": {
@@ -904,7 +904,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.js": {
@@ -913,7 +913,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.js": {
@@ -922,7 +922,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.js": {
@@ -931,7 +931,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.js": {
@@ -940,7 +940,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.js": {
@@ -949,7 +949,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min.js": {
@@ -958,7 +958,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.js": {
@@ -967,7 +967,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.js": {
@@ -976,7 +976,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.js": {
@@ -985,7 +985,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.js": {
@@ -994,7 +994,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.js": {
@@ -1003,7 +1003,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.min.js": {
@@ -1012,7 +1012,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/dist\/js\/plugins\/foundation.zf.responsiveAccordionTabs.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/docslink.sh": {
@@ -1027,7 +1027,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.abide.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.accordion.js": {
@@ -1036,7 +1036,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.accordion.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.accordionMenu.js": {
@@ -1045,7 +1045,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.accordionMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.core.js": {
@@ -1054,7 +1054,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.core.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.drilldown.js": {
@@ -1063,7 +1063,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.drilldown.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.dropdown.js": {
@@ -1072,7 +1072,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.dropdown.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.dropdownMenu.js": {
@@ -1081,7 +1081,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.dropdownMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.equalizer.js": {
@@ -1090,7 +1090,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.equalizer.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.interchange.js": {
@@ -1099,7 +1099,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.interchange.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.magellan.js": {
@@ -1108,7 +1108,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.magellan.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.offcanvas.js": {
@@ -1117,7 +1117,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.offcanvas.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.orbit.js": {
@@ -1126,7 +1126,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.orbit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.responsiveMenu.js": {
@@ -1135,7 +1135,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.responsiveMenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.responsiveToggle.js": {
@@ -1144,7 +1144,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.responsiveToggle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.reveal.js": {
@@ -1153,7 +1153,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.reveal.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.slider.js": {
@@ -1162,7 +1162,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.slider.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.sticky.js": {
@@ -1171,7 +1171,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.sticky.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.tabs.js": {
@@ -1180,7 +1180,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.tabs.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.toggler.js": {
@@ -1189,7 +1189,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.toggler.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.tooltip.js": {
@@ -1198,7 +1198,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.tooltip.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.box.js": {
@@ -1207,7 +1207,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.box.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.keyboard.js": {
@@ -1216,7 +1216,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.keyboard.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.mediaQuery.js": {
@@ -1225,7 +1225,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.mediaQuery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.motion.js": {
@@ -1234,7 +1234,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.motion.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.nest.js": {
@@ -1243,7 +1243,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.nest.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.timerAndImageLoader.js": {
@@ -1252,7 +1252,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.timerAndImageLoader.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.touch.js": {
@@ -1261,7 +1261,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.touch.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.util.triggers.js": {
@@ -1270,7 +1270,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.util.triggers.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.js": {
@@ -1279,7 +1279,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/LICENSE": {
@@ -2322,7 +2322,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery-placeholder\/jquery.placeholder.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/.bower.json": {
@@ -2363,7 +2363,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/jquery.autocomplete.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/jquery.autocomplete.min.js": {
@@ -2372,7 +2372,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/jquery.autocomplete.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/license.txt": {
@@ -2417,7 +2417,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/countries.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/demo.js": {
@@ -2426,7 +2426,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/demo.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/jquery-1.8.2.min.js": {
@@ -2435,7 +2435,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/jquery-1.8.2.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/jquery.mockjax.js": {
@@ -2444,7 +2444,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/scripts\/jquery.mockjax.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/src\/jquery.autocomplete.d.ts": {
@@ -2470,7 +2470,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/src\/jquery.autocomplete.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.cookie\/.bower.json": {
@@ -2487,7 +2487,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.cookie\/jquery.cookie.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/.bower.json": {
@@ -2504,7 +2504,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.min.js": {
@@ -2513,7 +2513,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.min.map": {
@@ -2534,7 +2534,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/jsonp.js": {
@@ -2543,7 +2543,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/jsonp.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/load.js": {
@@ -2552,7 +2552,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/load.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/parseJSON.js": {
@@ -2561,7 +2561,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/parseJSON.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/parseXML.js": {
@@ -2570,7 +2570,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/parseXML.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/script.js": {
@@ -2579,7 +2579,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/script.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/var\/nonce.js": {
@@ -2588,7 +2588,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/var\/nonce.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/var\/rquery.js": {
@@ -2597,7 +2597,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/var\/rquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/xhr.js": {
@@ -2606,7 +2606,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/ajax\/xhr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes.js": {
@@ -2615,7 +2615,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/attr.js": {
@@ -2624,7 +2624,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/attr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/classes.js": {
@@ -2633,7 +2633,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/classes.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/prop.js": {
@@ -2642,7 +2642,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/prop.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/support.js": {
@@ -2651,7 +2651,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/val.js": {
@@ -2660,7 +2660,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/attributes\/val.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/callbacks.js": {
@@ -2669,7 +2669,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/callbacks.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core.js": {
@@ -2678,7 +2678,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/access.js": {
@@ -2687,7 +2687,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/access.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/init.js": {
@@ -2696,7 +2696,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/init.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/parseHTML.js": {
@@ -2705,7 +2705,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/parseHTML.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/ready.js": {
@@ -2714,7 +2714,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/ready.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/var\/rsingleTag.js": {
@@ -2723,7 +2723,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/core\/var\/rsingleTag.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css.js": {
@@ -2732,7 +2732,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/addGetHookIf.js": {
@@ -2741,7 +2741,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/addGetHookIf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/curCSS.js": {
@@ -2750,7 +2750,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/curCSS.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/defaultDisplay.js": {
@@ -2759,7 +2759,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/defaultDisplay.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/hiddenVisibleSelectors.js": {
@@ -2768,7 +2768,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/hiddenVisibleSelectors.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/support.js": {
@@ -2777,7 +2777,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/swap.js": {
@@ -2786,7 +2786,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/swap.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/cssExpand.js": {
@@ -2795,7 +2795,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/cssExpand.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/getStyles.js": {
@@ -2804,7 +2804,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/getStyles.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/isHidden.js": {
@@ -2813,7 +2813,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/isHidden.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/rmargin.js": {
@@ -2822,7 +2822,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/rmargin.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/rnumnonpx.js": {
@@ -2831,7 +2831,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/css\/var\/rnumnonpx.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data.js": {
@@ -2840,7 +2840,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/accepts.js": {
@@ -2849,7 +2849,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/accepts.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/Data.js": {
@@ -2858,7 +2858,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/Data.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/var\/data_priv.js": {
@@ -2867,7 +2867,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/var\/data_priv.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/var\/data_user.js": {
@@ -2876,7 +2876,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/data\/var\/data_user.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/deferred.js": {
@@ -2885,7 +2885,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/deferred.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/deprecated.js": {
@@ -2894,7 +2894,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/deprecated.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/dimensions.js": {
@@ -2903,7 +2903,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/dimensions.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects.js": {
@@ -2912,7 +2912,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects\/animatedSelector.js": {
@@ -2921,7 +2921,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects\/animatedSelector.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects\/Tween.js": {
@@ -2930,7 +2930,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/effects\/Tween.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event.js": {
@@ -2939,7 +2939,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/ajax.js": {
@@ -2948,7 +2948,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/ajax.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/alias.js": {
@@ -2957,7 +2957,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/alias.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/support.js": {
@@ -2966,7 +2966,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/event\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/exports\/amd.js": {
@@ -2975,7 +2975,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/exports\/amd.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/exports\/global.js": {
@@ -2984,7 +2984,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/exports\/global.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/intro.js": {
@@ -2993,7 +2993,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/intro.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/jquery.js": {
@@ -3002,7 +3002,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/jquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation.js": {
@@ -3011,7 +3011,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/_evalUrl.js": {
@@ -3020,7 +3020,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/_evalUrl.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/support.js": {
@@ -3029,7 +3029,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/var\/rcheckableType.js": {
@@ -3038,7 +3038,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/manipulation\/var\/rcheckableType.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/offset.js": {
@@ -3047,7 +3047,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/offset.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/outro.js": {
@@ -3056,7 +3056,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/outro.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/queue.js": {
@@ -3065,7 +3065,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/queue.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/queue\/delay.js": {
@@ -3074,7 +3074,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/queue\/delay.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector-native.js": {
@@ -3083,7 +3083,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector-native.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector-sizzle.js": {
@@ -3092,7 +3092,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector-sizzle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector.js": {
@@ -3101,7 +3101,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/selector.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/serialize.js": {
@@ -3110,7 +3110,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/serialize.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.js": {
@@ -3119,7 +3119,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.min.js": {
@@ -3128,7 +3128,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.min.map": {
@@ -3143,7 +3143,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/traversing.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/traversing\/findFilter.js": {
@@ -3152,7 +3152,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/traversing\/findFilter.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/traversing\/var\/rneedsContext.js": {
@@ -3161,7 +3161,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/traversing\/var\/rneedsContext.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/arr.js": {
@@ -3170,7 +3170,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/arr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/class2type.js": {
@@ -3179,7 +3179,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/class2type.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/concat.js": {
@@ -3188,7 +3188,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/concat.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/hasOwn.js": {
@@ -3197,7 +3197,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/hasOwn.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/indexOf.js": {
@@ -3206,7 +3206,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/indexOf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/pnum.js": {
@@ -3215,7 +3215,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/pnum.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/push.js": {
@@ -3224,7 +3224,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/push.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/rnotwhite.js": {
@@ -3233,7 +3233,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/rnotwhite.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/slice.js": {
@@ -3242,7 +3242,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/slice.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/strundefined.js": {
@@ -3251,7 +3251,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/strundefined.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/support.js": {
@@ -3260,7 +3260,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/toString.js": {
@@ -3269,7 +3269,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/var\/toString.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/wrap.js": {
@@ -3278,7 +3278,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/wrap.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/.bower.json": {
@@ -3295,7 +3295,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.compat.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.compat.min.js": {
@@ -3304,7 +3304,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.compat.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.js": {
@@ -3313,7 +3313,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.min.js": {
@@ -3322,7 +3322,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.underscore.js": {
@@ -3331,7 +3331,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.underscore.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.underscore.min.js": {
@@ -3340,7 +3340,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/dist\/lodash.underscore.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/LICENSE.txt": {
@@ -3375,7 +3375,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/a-download.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/audio-audiodata-api.js": {
@@ -3384,7 +3384,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/audio-audiodata-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/audio-webaudio-api.js": {
@@ -3393,7 +3393,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/audio-webaudio-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/battery-api.js": {
@@ -3402,7 +3402,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/battery-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/battery-level.js": {
@@ -3411,7 +3411,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/battery-level.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/blob-constructor.js": {
@@ -3420,7 +3420,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/blob-constructor.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/canvas-todataurl-type.js": {
@@ -3429,7 +3429,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/canvas-todataurl-type.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contenteditable.js": {
@@ -3438,7 +3438,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contenteditable.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contentsecuritypolicy.js": {
@@ -3447,7 +3447,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contentsecuritypolicy.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contextmenu.js": {
@@ -3456,7 +3456,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/contextmenu.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/cookies.js": {
@@ -3465,7 +3465,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/cookies.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/cors.js": {
@@ -3474,7 +3474,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/cors.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundposition-shorthand.js": {
@@ -3483,7 +3483,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundposition-shorthand.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundposition-xy.js": {
@@ -3492,7 +3492,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundposition-xy.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundrepeat.js": {
@@ -3501,7 +3501,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundrepeat.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundsizecover.js": {
@@ -3510,7 +3510,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-backgroundsizecover.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-boxsizing.js": {
@@ -3519,7 +3519,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-boxsizing.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-calc.js": {
@@ -3528,7 +3528,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-calc.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-cubicbezierrange.js": {
@@ -3537,7 +3537,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-cubicbezierrange.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-displayrunin.js": {
@@ -3546,7 +3546,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-displayrunin.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-displaytable.js": {
@@ -3555,7 +3555,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-displaytable.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-filters.js": {
@@ -3564,7 +3564,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-filters.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-hyphens.js": {
@@ -3573,7 +3573,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-hyphens.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-lastchild.js": {
@@ -3582,7 +3582,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-lastchild.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-mask.js": {
@@ -3591,7 +3591,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-mask.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-mediaqueries.js": {
@@ -3600,7 +3600,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-mediaqueries.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-objectfit.js": {
@@ -3609,7 +3609,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-objectfit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-overflow-scrolling.js": {
@@ -3618,7 +3618,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-overflow-scrolling.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-pointerevents.js": {
@@ -3627,7 +3627,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-pointerevents.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-positionsticky.js": {
@@ -3636,7 +3636,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-positionsticky.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-regions.js": {
@@ -3645,7 +3645,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-regions.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-remunit.js": {
@@ -3654,7 +3654,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-remunit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-resize.js": {
@@ -3663,7 +3663,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-resize.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-scrollbars.js": {
@@ -3672,7 +3672,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-scrollbars.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-shapes.js": {
@@ -3681,7 +3681,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-shapes.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-subpixelfont.js": {
@@ -3690,7 +3690,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-subpixelfont.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-supports.js": {
@@ -3699,7 +3699,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-supports.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-userselect.js": {
@@ -3708,7 +3708,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-userselect.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vhunit.js": {
@@ -3717,7 +3717,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vhunit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vmaxunit.js": {
@@ -3726,7 +3726,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vmaxunit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vminunit.js": {
@@ -3735,7 +3735,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vminunit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vwunit.js": {
@@ -3744,7 +3744,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/css-vwunit.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/custom-protocol-handler.js": {
@@ -3753,7 +3753,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/custom-protocol-handler.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dart.js": {
@@ -3762,7 +3762,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dart.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dataview-api.js": {
@@ -3771,7 +3771,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dataview-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-classlist.js": {
@@ -3780,7 +3780,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-classlist.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-createElement-attrs.js": {
@@ -3789,7 +3789,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-createElement-attrs.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-dataset.js": {
@@ -3798,7 +3798,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-dataset.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-microdata.js": {
@@ -3807,7 +3807,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/dom-microdata.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-datalist.js": {
@@ -3816,7 +3816,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-datalist.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-details.js": {
@@ -3825,7 +3825,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-details.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-output.js": {
@@ -3834,7 +3834,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-output.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-progress-meter.js": {
@@ -3843,7 +3843,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-progress-meter.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-ruby.js": {
@@ -3852,7 +3852,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-ruby.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-time.js": {
@@ -3861,7 +3861,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-time.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-track.js": {
@@ -3870,7 +3870,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/elem-track.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/emoji.js": {
@@ -3879,7 +3879,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/emoji.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/es5-strictmode.js": {
@@ -3888,7 +3888,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/es5-strictmode.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/event-deviceorientation-motion.js": {
@@ -3897,7 +3897,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/event-deviceorientation-motion.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/exif-orientation.js": {
@@ -3906,7 +3906,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/exif-orientation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/file-api.js": {
@@ -3915,7 +3915,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/file-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/file-filesystem.js": {
@@ -3924,7 +3924,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/file-filesystem.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-fileinput.js": {
@@ -3933,7 +3933,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-fileinput.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-formattribute.js": {
@@ -3942,7 +3942,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-formattribute.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-inputnumber-l10n.js": {
@@ -3951,7 +3951,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-inputnumber-l10n.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-placeholder.js": {
@@ -3960,7 +3960,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-placeholder.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-speechinput.js": {
@@ -3969,7 +3969,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-speechinput.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-validation.js": {
@@ -3978,7 +3978,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/forms-validation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/fullscreen-api.js": {
@@ -3987,7 +3987,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/fullscreen-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/gamepad.js": {
@@ -3996,7 +3996,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/gamepad.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/getusermedia.js": {
@@ -4005,7 +4005,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/getusermedia.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/ie8compat.js": {
@@ -4014,7 +4014,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/ie8compat.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-sandbox.js": {
@@ -4023,7 +4023,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-sandbox.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-seamless.js": {
@@ -4032,7 +4032,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-seamless.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-srcdoc.js": {
@@ -4041,7 +4041,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/iframe-srcdoc.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/img-apng.js": {
@@ -4050,7 +4050,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/img-apng.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/img-webp.js": {
@@ -4059,7 +4059,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/img-webp.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/json.js": {
@@ -4068,7 +4068,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/json.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/lists-reversed.js": {
@@ -4077,7 +4077,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/lists-reversed.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/mathml.js": {
@@ -4086,7 +4086,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/mathml.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-connection.js": {
@@ -4095,7 +4095,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-connection.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-eventsource.js": {
@@ -4104,7 +4104,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-eventsource.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-xhr2.js": {
@@ -4113,7 +4113,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/network-xhr2.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/notification.js": {
@@ -4122,7 +4122,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/notification.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/performance.js": {
@@ -4131,7 +4131,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/performance.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/pointerlock-api.js": {
@@ -4140,7 +4140,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/pointerlock-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/quota-management-api.js": {
@@ -4149,7 +4149,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/quota-management-api.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/requestanimationframe.js": {
@@ -4158,7 +4158,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/requestanimationframe.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/script-async.js": {
@@ -4167,7 +4167,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/script-async.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/script-defer.js": {
@@ -4176,7 +4176,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/script-defer.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/style-scoped.js": {
@@ -4185,7 +4185,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/style-scoped.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/svg-filters.js": {
@@ -4194,7 +4194,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/svg-filters.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/unicode.js": {
@@ -4203,7 +4203,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/unicode.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/url-data-uri.js": {
@@ -4212,7 +4212,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/url-data-uri.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/userdata.js": {
@@ -4221,7 +4221,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/userdata.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/vibration.js": {
@@ -4230,7 +4230,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/vibration.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/web-intents.js": {
@@ -4239,7 +4239,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/web-intents.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/webgl-extensions.js": {
@@ -4248,7 +4248,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/webgl-extensions.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/websockets-binary.js": {
@@ -4257,7 +4257,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/websockets-binary.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/window-framed.js": {
@@ -4266,7 +4266,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/window-framed.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-blobworkers.js": {
@@ -4275,7 +4275,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-blobworkers.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-dataworkers.js": {
@@ -4284,7 +4284,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-dataworkers.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-sharedworkers.js": {
@@ -4293,7 +4293,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/feature-detects\/workers-sharedworkers.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/grunt.js": {
@@ -4302,7 +4302,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/grunt.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.ai": {
@@ -4337,9 +4337,9 @@
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -4350,7 +4350,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/modernizr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/readme.md": {
@@ -4415,7 +4415,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/dist\/jquery.matchHeight-min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/dist\/jquery.matchHeight.js": {
@@ -4424,7 +4424,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/dist\/jquery.matchHeight.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/gulpfile.js": {
@@ -4433,7 +4433,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/gulpfile.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/jquery.matchHeight.js": {
@@ -4442,7 +4442,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/jquery.matchHeight.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/LICENSE": {
@@ -4491,7 +4491,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/conf\/cloud-all.conf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/conf\/cloud.conf.js": {
@@ -4500,7 +4500,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/conf\/cloud.conf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/conf\/local.conf.js": {
@@ -4509,7 +4509,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/conf\/local.conf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/img\/800x150.png": {
@@ -4562,7 +4562,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/boot.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/console.js": {
@@ -4571,7 +4571,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/console.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/jasmine-html.js": {
@@ -4580,7 +4580,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/jasmine-html.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/jasmine.css": {
@@ -4599,7 +4599,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/jasmine.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/lib\/jasmine-2.3.4\/jasmine_favicon.png": {
@@ -4619,7 +4619,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/lib\/jquery-1.11.0.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/test.css": {
@@ -4644,7 +4644,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/test.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/specs\/matchHeight.spec.js": {
@@ -4653,7 +4653,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/specs\/matchHeight.spec.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/specs\/webdriver.spec.js": {
@@ -4662,7 +4662,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/specs\/webdriver.spec.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/AUTHORS.txt": {
@@ -4685,7 +4685,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/dist\/jquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/dist\/jquery.min.js": {
@@ -4694,7 +4694,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/dist\/jquery.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/dist\/jquery.min.map": {
@@ -4709,7 +4709,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.min.js": {
@@ -4718,7 +4718,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
@@ -4777,7 +4777,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/jsonp.js": {
@@ -4786,7 +4786,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/jsonp.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/load.js": {
@@ -4795,7 +4795,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/load.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/parseJSON.js": {
@@ -4804,7 +4804,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/parseJSON.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/parseXML.js": {
@@ -4813,7 +4813,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/parseXML.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/script.js": {
@@ -4822,7 +4822,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/script.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/var\/location.js": {
@@ -4831,7 +4831,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/var\/location.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/var\/nonce.js": {
@@ -4840,7 +4840,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/var\/nonce.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/var\/rquery.js": {
@@ -4849,7 +4849,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/var\/rquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/ajax\/xhr.js": {
@@ -4858,7 +4858,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/ajax\/xhr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes.js": {
@@ -4867,7 +4867,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes\/attr.js": {
@@ -4876,7 +4876,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes\/attr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes\/classes.js": {
@@ -4885,7 +4885,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes\/classes.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes\/prop.js": {
@@ -4894,7 +4894,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes\/prop.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes\/support.js": {
@@ -4903,7 +4903,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/attributes\/val.js": {
@@ -4912,7 +4912,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/attributes\/val.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/callbacks.js": {
@@ -4921,7 +4921,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/callbacks.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core.js": {
@@ -4930,7 +4930,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core\/access.js": {
@@ -4939,7 +4939,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core\/access.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core\/init.js": {
@@ -4948,7 +4948,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core\/init.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core\/parseHTML.js": {
@@ -4957,7 +4957,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core\/parseHTML.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core\/ready.js": {
@@ -4966,7 +4966,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core\/ready.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/core\/var\/rsingleTag.js": {
@@ -4975,7 +4975,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/core\/var\/rsingleTag.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css.js": {
@@ -4984,7 +4984,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/addGetHookIf.js": {
@@ -4993,7 +4993,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/addGetHookIf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/adjustCSS.js": {
@@ -5002,7 +5002,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/adjustCSS.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/curCSS.js": {
@@ -5011,7 +5011,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/curCSS.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/defaultDisplay.js": {
@@ -5020,7 +5020,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/defaultDisplay.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/hiddenVisibleSelectors.js": {
@@ -5029,7 +5029,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/hiddenVisibleSelectors.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/showHide.js": {
@@ -5038,7 +5038,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/showHide.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/support.js": {
@@ -5047,7 +5047,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/cssExpand.js": {
@@ -5056,7 +5056,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/cssExpand.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/getStyles.js": {
@@ -5065,7 +5065,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/getStyles.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/isHidden.js": {
@@ -5074,7 +5074,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/isHidden.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/rmargin.js": {
@@ -5083,7 +5083,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/rmargin.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/rnumnonpx.js": {
@@ -5092,7 +5092,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/rnumnonpx.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/css\/var\/swap.js": {
@@ -5101,7 +5101,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/css\/var\/swap.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/data.js": {
@@ -5110,7 +5110,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/data.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/data\/Data.js": {
@@ -5119,7 +5119,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/data\/Data.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/data\/var\/acceptData.js": {
@@ -5128,7 +5128,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/data\/var\/acceptData.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/data\/var\/dataPriv.js": {
@@ -5137,7 +5137,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/data\/var\/dataPriv.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/data\/var\/dataUser.js": {
@@ -5146,7 +5146,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/data\/var\/dataUser.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/deferred.js": {
@@ -5155,7 +5155,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/deferred.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/deprecated.js": {
@@ -5164,7 +5164,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/deprecated.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/dimensions.js": {
@@ -5173,7 +5173,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/dimensions.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/effects.js": {
@@ -5182,7 +5182,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/effects.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/effects\/animatedSelector.js": {
@@ -5191,7 +5191,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/effects\/animatedSelector.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/effects\/Tween.js": {
@@ -5200,7 +5200,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/effects\/Tween.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event.js": {
@@ -5209,7 +5209,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event\/ajax.js": {
@@ -5218,7 +5218,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event\/ajax.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event\/alias.js": {
@@ -5227,7 +5227,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event\/alias.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event\/focusin.js": {
@@ -5236,7 +5236,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event\/focusin.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event\/support.js": {
@@ -5245,7 +5245,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/event\/trigger.js": {
@@ -5254,7 +5254,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/event\/trigger.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/exports\/amd.js": {
@@ -5263,7 +5263,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/exports\/amd.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/exports\/global.js": {
@@ -5272,7 +5272,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/exports\/global.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/intro.js": {
@@ -5281,7 +5281,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/intro.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/jquery.js": {
@@ -5290,7 +5290,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/jquery.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation.js": {
@@ -5299,7 +5299,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/_evalUrl.js": {
@@ -5308,7 +5308,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/_evalUrl.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/buildFragment.js": {
@@ -5317,7 +5317,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/buildFragment.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/getAll.js": {
@@ -5326,7 +5326,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/getAll.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/setGlobalEval.js": {
@@ -5335,7 +5335,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/setGlobalEval.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/support.js": {
@@ -5344,7 +5344,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/var\/rcheckableType.js": {
@@ -5353,7 +5353,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/var\/rcheckableType.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/var\/rscriptType.js": {
@@ -5362,7 +5362,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/var\/rscriptType.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/var\/rtagName.js": {
@@ -5371,7 +5371,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/var\/rtagName.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/manipulation\/wrapMap.js": {
@@ -5380,7 +5380,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/manipulation\/wrapMap.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/offset.js": {
@@ -5389,7 +5389,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/offset.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/outro.js": {
@@ -5398,7 +5398,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/outro.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/queue.js": {
@@ -5407,7 +5407,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/queue.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/queue\/delay.js": {
@@ -5416,7 +5416,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/queue\/delay.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/selector-native.js": {
@@ -5425,7 +5425,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/selector-native.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/selector-sizzle.js": {
@@ -5434,7 +5434,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/selector-sizzle.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/selector.js": {
@@ -5443,7 +5443,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/selector.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/serialize.js": {
@@ -5452,7 +5452,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/serialize.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/traversing.js": {
@@ -5461,7 +5461,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/traversing.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/traversing\/findFilter.js": {
@@ -5470,7 +5470,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/traversing\/findFilter.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/traversing\/var\/dir.js": {
@@ -5479,7 +5479,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/traversing\/var\/dir.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/traversing\/var\/rneedsContext.js": {
@@ -5488,7 +5488,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/traversing\/var\/rneedsContext.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/traversing\/var\/siblings.js": {
@@ -5497,7 +5497,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/traversing\/var\/siblings.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/arr.js": {
@@ -5506,7 +5506,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/arr.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/class2type.js": {
@@ -5515,7 +5515,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/class2type.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/concat.js": {
@@ -5524,7 +5524,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/concat.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/document.js": {
@@ -5533,7 +5533,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/document.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/documentElement.js": {
@@ -5542,7 +5542,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/documentElement.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/hasOwn.js": {
@@ -5551,7 +5551,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/hasOwn.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/indexOf.js": {
@@ -5560,7 +5560,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/indexOf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/pnum.js": {
@@ -5569,7 +5569,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/pnum.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/push.js": {
@@ -5578,7 +5578,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/push.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/rcssNum.js": {
@@ -5587,7 +5587,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/rcssNum.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/rnotwhite.js": {
@@ -5596,7 +5596,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/rnotwhite.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/slice.js": {
@@ -5605,7 +5605,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/slice.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/support.js": {
@@ -5614,7 +5614,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/support.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/var\/toString.js": {
@@ -5623,7 +5623,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/var\/toString.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/src\/wrap.js": {
@@ -5632,7 +5632,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/src\/wrap.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/.npmignore": {
@@ -5679,7 +5679,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/dist\/motion-ui.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/dist\/motion-ui.min.css": {
@@ -5698,7 +5698,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/dist\/motion-ui.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/animations.md": {
@@ -5851,7 +5851,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/gulpfile.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/lib\/handlebars.js": {
@@ -5860,7 +5860,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/lib\/handlebars.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/LICENSE": {
@@ -5875,7 +5875,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/motion-ui.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/motion-ui.scss": {
@@ -6229,7 +6229,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/dist\/lte-IE8.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/dist\/what-input.js": {
@@ -6238,7 +6238,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/dist\/what-input.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/dist\/what-input.min.js": {
@@ -6247,7 +6247,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/dist\/what-input.min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/docs\/index.html": {
@@ -6262,7 +6262,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/docs\/scripts\/lte-IE8.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/docs\/scripts\/what-input.js": {
@@ -6271,7 +6271,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/docs\/scripts\/what-input.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/Gulpfile.js": {
@@ -6280,7 +6280,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/Gulpfile.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/LICENSE": {
@@ -6321,7 +6321,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/src\/polyfills\/ie8\/EventListener.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/src\/polyfills\/ie8\/indexOf.js": {
@@ -6330,7 +6330,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/src\/polyfills\/ie8\/indexOf.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/src\/what-input.js": {
@@ -6339,7 +6339,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/src\/what-input.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/yarn.lock": {
@@ -6397,7 +6397,7 @@
 		"oA": 0,
 		"oAP": "\/dist\/js\/app-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/src\/js\/components.js": {
@@ -6406,7 +6406,7 @@
 		"oA": 0,
 		"oAP": "\/dist\/js\/components-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/src\/js\/modules\/_onLoad.js": {
@@ -6415,7 +6415,7 @@
 		"oA": 1,
 		"oAP": "\/dist\/js\/modules\/_onLoad-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/src\/scss\/core\/_app.scss": {
@@ -6561,7 +6561,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 516780387
+	"lastBuiltDate": 518501840
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -8336,7 +8336,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
