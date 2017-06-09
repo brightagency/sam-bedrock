@@ -1,16 +1,19 @@
-.alignleft, img.alignleft {
+.alignleft,
+img.alignleft {
 	display: inline;
 	float: left;
 	margin-right: 1.5em;
 }
 
-.alignright, img.alignright {
+.alignright,
+img.alignright {
 	display: inline;
 	float: right;
 	margin-left: 1.5em;
 }
 
-.aligncenter, img.aligncenter {
+.aligncenter,
+img.aligncenter {
 	clear: both;
 	display: block;
 	margin-left: auto;

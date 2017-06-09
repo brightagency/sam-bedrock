@@ -1,26 +1,31 @@
-/**
-* Typography
-*/
+// Typography
+// ----------
 $font: 'Helvetica', 'Arial', sans-serif;
 
-/**
-* Layout
-*/
-$vertical-rhythm: 1.5rem;
-$spacingUnit: $vertical-rhythm;
+// Layout
+// ------
+$verticalRhythm: 1.5rem;
+$spacingUnit: $verticalRhythm;
 
-/**
-* Colours
-*/
+// FontAwesome Content Variables
+// -----------------------------
+$faAngleLeft: '\f104';
+$faAngleRight: '\f105';
+$faAngleUp: '\f106';
+$faAngleDown: '\f107';
+
+// Colours
+// -------
+
 // Theme colours
 $primary: #27a2da;
 $secondary: #1c769f;
 $tertiary: #1c9f60;
 
 $colors: (
-    primary: $primary,
-    secondary: $secondary,
-    tertiary: $tertiary
+    'primary': $primary,
+    'secondary': $secondary,
+    'tertiary': $tertiary
 );
 
 // Shader Colors
@@ -32,9 +37,14 @@ $black: hsl(0, 0, 0%);
 
 // Shader helper variables
 $shaders: (
-    white: $white,
-    shade: $shade,
-    shadow: $shadow,
-    dark: $dark,
-    black: $black
+    'white': $white,
+    'shade': $shade,
+    'shadow': $shadow,
+    'dark': $dark,
+    'black': $black
 );
+
+// Global helper colours
+$globalColor: $black;
+$globalColorLabel: 'black';
+$globalColorIndex: 1;

@@ -1,23 +1,24 @@
-/* Base button class */
-.button {
-	text-decoration: none;
-	color: white;
-	line-height: 1;
-	display: inline-block;
-	padding: 20px 40px;
+// Base button class
+// -----------------
+%button {
+    color: $white;
+    display: inline-block;
+    line-height: 1;
+    padding: 20px 40px;
 }
 
-	// Button creator mixin
-	@mixin button-theme-create($color, $name) {
-		.button-#{$name} {
-			@extend .button;
-			background-color: $color;
-			&:hover {
-				background-color: lighten($color,5%);
-			}
+// Button creator mixin
+@mixin button-theme-create($color, $name) {
+    .button-#{$name} {
+        @extend %button;
+        background-color: $color;
+
+        &:hover {
+            background-color: lighten($color, 5%);
 		}
 	}
+}
 
-	@each $colorLabel, $color in $colors {
-		@include button-theme-create($color, $colorLabel);
-	}
+@each $colorLabel, $color in $colors {
+    @include button-theme-create($color, $colorLabel);
+}

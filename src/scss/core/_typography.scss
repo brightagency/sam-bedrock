@@ -1,22 +1,28 @@
-/**
-* General typesetting
-*/
+// General Typesetting
+// -------------------
 body {
-	font-family: $font;
 	color: $dark;
+	font-family: $font;
 }
 
-/**
-* Headings
-*/
+// Headings
+// --------
+
 // General
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $font2;
+	font-weight: 900;
+	line-height: 1.2;
 	margin: 0;
-	line-height: 1.5;
 }
 
 p {
-	margin: 0 0 $vertical-rhythm 0;
+	margin: 0 0 $verticalRhythm;
 }
 
 // Medium up
@@ -50,17 +56,20 @@ ul + h3,
 ul + h4,
 ul + h5,
 ul + h6 {
-    margin-top: $vertical-rhythm;
+	margin-top: $verticalRhythm;
 }
 
-/**
-* Body Copy
-*/
-p, li { font-size: 1rem; line-height: 1.5; }
+// Body copy
+// ---------
+p,
+li {
+	font-size: 1rem;
+	line-height: 1.5;
+}
 
-/**
-* Links
-*/
+// Links
+// -----
 a {
+	text-decoration: none;
 	transition: .2s ease all;
 }

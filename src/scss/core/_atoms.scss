@@ -1,38 +1,43 @@
-/** Default content padding */
-.padded {
-    padding: $spacingUnit*2 0 $spacingUnit;
+// Default content padding
+// -----------------------
+%padded {
+    padding: $spacingUnit * 2 0 $spacingUnit;
 }
-    .padded-double {
-        @extend .padded;
-        @include breakpoint(medium) {
-            padding: $spacingUnit*4 0 $spacingUnit*3;
-        }
-    }
 
-/** Row gutter tweaks */
+%padded-double {
+    @extend %padded;
+    @include breakpoint(medium) {
+        padding: $spacingUnit * 4 0 $spacingUnit * 3;
+    }
+}
+
+// Row gutter tweaks
+// -----------------
 .row--gutter-zero {
     padding-left: 0;
     padding-right: 0;
+
     & > .columns {
         padding-left: 0;
         padding-right: 0;
     }
 }
 
-/** Text alignment helplers */
+// Text alignment helplers
+// -----------------------
 @each $size in $breakpoint-classes {
-  @include breakpoint($size) {
-    @each $align in (left, right, center, justify) {
-      @if $size != 'small' {
-        .#{$size}-text-#{$align} {
-          text-align: $align;
+
+    @include breakpoint($size) {
+        @each $align in (left, right, center, justify) {
+            @if $size != 'small' {
+                .#{$size}-text-#{$align} {
+                    text-align: $align;
+                }
+            } @else {
+                .text-#{$align} {
+                    text-align: $align;
+                }
+            }
         }
-      }
-      @else {
-        .text-#{$align} {
-          text-align: $align;
-        }
-      }
     }
-  }
 }
