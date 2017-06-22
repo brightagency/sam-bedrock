@@ -1,16 +1,24 @@
-/** Import WordPress stylesheet */
-@import "../../style";
+// Import WordPress Stylesheet
+// ---------------------------
+@import '../../style';
 
-/** Import Internal Deps */
+// Import Internal Deps
+// --------------------
 @import 'sjd-scss';
 
-/** Import the core */
-@import "core/app";
-@import "core/variables";
-@import "core/wordpress";
-@import "core/typography";
-@import "core/mixins";
-@import "core/atoms";
-@import "core/buttons";
+// Import External Deps
+// --------------------
 
-/** Import the surface */
+// Import the core
+// ---------------
+@import 'core/app';
+@import 'core/fonts';
+@import 'core/variables';
+@import 'core/wordpress';
+@import 'core/typography';
+@import 'core/mixins';
+@import 'core/atoms';
+@import 'core/buttons';
+
+// Import the surface
+// ------------------
