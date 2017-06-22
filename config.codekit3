@@ -23,12 +23,6 @@
 		"oAP": "\/dist\/.gitignore",
 		"oF": 1
 		},
-	"\/.sass-lint.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/.sass-lint.yml",
-		"oF": 0
-		},
 	"\/404.php": {
 		"ft": 8192,
 		"oA": 1,
@@ -6580,7 +6574,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 518501840
+	"lastBuiltDate": 519806463
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
