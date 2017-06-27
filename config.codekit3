@@ -6400,20 +6400,20 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/src\/js\/components.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/dist\/js\/components-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/src\/js\/modules\/_onLoad.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/dist\/js\/modules\/_onLoad-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/src\/js\/vendor.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/dist\/js\/vendor-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -6574,7 +6574,7 @@
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ive",
-	"lastBuiltDate": 519806463
+	"lastBuiltDate": 520236235
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
