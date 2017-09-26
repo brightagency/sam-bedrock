@@ -51,5 +51,44 @@ class Forge {
         // List pages with the passed in $args
         wp_list_pages( $args );
     }
+    
+    public static function page_item_class($page_id, $additional_classes = false) {
+        echo 'class="' . self::get_page_item_classes($page_id, $additional_classes) . '"';
+    }
+
+    public static function get_page_item_classes($page_id, $additional_classes = false) {
+        // Setup empty array of classes
+        $classes = [];
+
+        // page_item class
+        $classes[] = 'page_item';
+
+        // page-item-[id] class
+        $classes[] = 'page-item-' . $page_id;
+
+        // current_page_item class if it's the current page
+        if ($page_id == get_the_id()) {
+            $classes[] = 'current_page_item';
+        }
+
+        // Page item has children
+        if (count(get_children(['post_parent' => $page_id]))) {
+            $classes[] = 'has_children';
+        }
+
+        // Additional classes
+        if ($additional_classes) {
+            if (gettype($additional_classes) == 'string') {
+                $classes[] = $additional_classes;
+            } elseif (gettype($additional_classes == 'array')) {
+                foreach ($additional_classes as $class) {
+                    $classes[] = $class;
+                }
+            }
+        }
+
+        // Space separated string of classes
+        return implode(' ', $classes);
+    }
 
 }
