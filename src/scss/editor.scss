@@ -1,0 +1,17 @@
+@import 'sjd-scss';
+
+@import 'core/app';
+@import 'core/fonts';
+@import 'core/variables';
+@import 'core/wordpress';
+@import 'core/typography';
+@import 'core/mixins';
+@import 'core/atoms';
+
+#tinymce {
+    padding: 1rem !important;
+
+    p:last-child {
+        margin-bottom: 0 !important;
+    }
+}

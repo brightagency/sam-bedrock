@@ -25,11 +25,11 @@ p {
 }
 
 // Small
-h1 { @include baseHeadingFontSize(2em) }
-h2 { @include baseHeadingFontSize(1.7em) }
-h3 { @include baseHeadingFontSize(1.5em) }
-h4 { @include baseHeadingFontSize(1.3em) }
-h5 { @include baseHeadingFontSize(1.1em) }
+h1 { @include baseHeadingFontSize(2.2em) }
+h2 { @include baseHeadingFontSize(1.8em) }
+h3 { @include baseHeadingFontSize(1.6em) }
+h4 { @include baseHeadingFontSize(1.4em) }
+h5 { @include baseHeadingFontSize(1.2em) }
 h6 { @include baseHeadingFontSize(1em) }
 
 
