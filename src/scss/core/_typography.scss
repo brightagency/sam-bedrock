@@ -79,9 +79,10 @@ a {
 // -----------
 blockquote {
 	margin: 0;
+	margin-bottom: $verticalRhythm;
 	padding: 0;
 	padding-left: 1rem;
-	border-left: 5px solid dark;
+	border-left: 5px solid $pink;
 
 	p {
 		color: $shadow;
