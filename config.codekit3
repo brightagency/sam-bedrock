@@ -15,27 +15,31 @@
 		"uuidString": "AC41FCB4-6EDE-4360-AEDB-009E97A4BB1A"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/.gitignore",
 		"oF": 1
 		},
 	"\/404.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/404.php",
 		"oF": 0
 		},
 	"\/acf-json\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/acf-json\/.gitignore",
 		"oF": 0
 		},
 	"\/archive.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/archive.php",
@@ -50,6 +54,7 @@
 		"oS": 1
 		},
 	"\/class\/class-forge.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/class\/class-forge.php",
@@ -62,36 +67,42 @@
 		"oF": 0
 		},
 	"\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/footer.php",
 		"oF": 0
 		},
 	"\/functions.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/functions.php",
 		"oF": 0
 		},
 	"\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/header.php",
 		"oF": 0
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
 	"\/node_modules\/.yarn-integrity": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/.yarn-integrity",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.bowerrc",
@@ -118,16 +129,17 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.eslintrc",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -142,10 +154,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -160,18 +172,21 @@
 		"uCM": 0
 		},
 	"\/node_modules\/foundation-sites\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.npmignore",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.sass-lint.yml",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/.travis.yml",
@@ -381,10 +396,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -407,6 +422,7 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/customizer\/config.yml",
@@ -421,6 +437,7 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/customizer\/index.html",
@@ -1214,6 +1231,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/docslink.sh",
@@ -1890,6 +1908,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/LICENSE",
@@ -1912,10 +1931,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3316,16 +3335,17 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/fastclick\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/fastclick\/LICENSE",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/fastclick\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3366,6 +3386,7 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/.npmignore",
@@ -3410,28 +3431,31 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/license.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/dist\/license.txt",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/index.htm": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/index.htm",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/license.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/license.txt",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery.autocomplete\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3559,12 +3583,14 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/dist\/jquery.min.map",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/MIT-LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/MIT-LICENSE.txt",
@@ -4241,6 +4267,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/jquery\/src\/sizzle\/dist\/sizzle.min.map",
@@ -4475,6 +4502,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/lodash\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/lodash\/LICENSE.txt",
@@ -4489,12 +4517,14 @@
 		"oS": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/.npmignore",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/.travis.yml",
@@ -5541,18 +5571,21 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.ai": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.ai",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.eps": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.eps",
 		"oF": 1
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/foundation-sites\/vendor\/modernizr\/media\/Modernizr 2 Logo.pdf",
@@ -5590,10 +5623,10 @@
 		"tS": 0
 		},
 	"\/node_modules\/foundation-sites\/vendor\/modernizr\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5618,12 +5651,14 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/.eslintrc",
 		"oF": 1
 		},
 	"\/node_modules\/jquery-match-height\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/.npmignore",
@@ -5638,10 +5673,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/jquery-match-height\/CHANGELOG.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5696,6 +5731,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery-match-height\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/LICENSE",
@@ -5718,10 +5754,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/jquery-match-height\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5891,6 +5927,7 @@
 		"oS": 0
 		},
 	"\/node_modules\/jquery-match-height\/test\/page\/test.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery-match-height\/test\/page\/test.html",
@@ -5927,6 +5964,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/AUTHORS.txt",
@@ -5971,6 +6009,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/dist\/jquery.min.map",
@@ -5997,6 +6036,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/dist\/jquery.slim.min.map",
@@ -6023,18 +6063,21 @@
 		"tS": 0
 		},
 	"\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 1
 		},
 	"\/node_modules\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 1
 		},
 	"\/node_modules\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/jquery\/LICENSE.txt",
@@ -6049,10 +6092,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7095,18 +7138,21 @@
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/.npmignore",
 		"oF": 1
 		},
 	"\/node_modules\/motion-ui\/.scss-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/.scss-lint.yml",
 		"oF": 1
 		},
 	"\/node_modules\/motion-ui\/.versions": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/.versions",
@@ -7169,10 +7215,10 @@
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7187,10 +7233,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7205,10 +7251,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7223,10 +7269,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7241,10 +7287,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7259,10 +7305,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7277,10 +7323,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7295,10 +7341,10 @@
 		"uCM": 0
 		},
 	"\/node_modules\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7333,16 +7379,17 @@
 		"tS": 0
 		},
 	"\/node_modules\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/motion-ui\/LICENSE",
 		"oF": 1
 		},
 	"\/node_modules\/motion-ui\/meteor-README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7398,10 +7445,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7702,12 +7749,14 @@
 		"uL": 1
 		},
 	"\/node_modules\/what-input\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/.editorconfig",
 		"oF": 1
 		},
 	"\/node_modules\/what-input\/.npmignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/.npmignore",
@@ -7752,6 +7801,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/docs\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/docs\/index.html",
@@ -7788,6 +7838,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/LICENSE",
@@ -7802,10 +7853,10 @@
 		"oS": 1
 		},
 	"\/node_modules\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7850,6 +7901,7 @@
 		"tS": 0
 		},
 	"\/node_modules\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/node_modules\/what-input\/yarn.lock",
@@ -7864,10 +7916,10 @@
 		"oS": 1
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7893,6 +7945,7 @@
 		"q": 100
 		},
 	"\/search.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/search.php",
@@ -8082,6 +8135,7 @@
 		"oS": 0
 		},
 	"\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/yarn.lock",
@@ -8633,6 +8687,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -8697,9 +8755,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -8729,6 +8787,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -8738,14 +8800,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -9849,7 +9903,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -9882,6 +9937,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -9923,7 +9979,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -9955,13 +10012,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -9970,7 +10027,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -9990,7 +10048,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -10018,7 +10077,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -10071,7 +10131,8 @@
 			"autoOutputPathReplace1": "",
 			"autoOutputPathReplace2": "",
 			"autoOutputPathStyle": 0,
-			"fileExtension": "php"
+			"fileExtension": "php",
+			"shouldRunCacheBuster": 0
 			}
 		],
 	"overrideExternalServerCSS": 0,
