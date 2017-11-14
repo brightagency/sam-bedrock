@@ -1,9 +1,7 @@
-/*
-|--------------------------------------------------------------------------
-| Bower Imports
-|--------------------------------------------------------------------------
-*/
+// Module Imports
+// --------------
 
+// Bind jQuery to $
 window.$ = jQuery;
 
 // @codekit-prepend: '../../node_modules/foundation-sites/dist/js/plugins/foundation.core.js'

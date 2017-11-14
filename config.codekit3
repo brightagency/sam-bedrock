@@ -45,14 +45,6 @@
 		"oAP": "\/dist\/archive.php",
 		"oF": 0
 		},
-	"\/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/dist\/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/class\/class-forge.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -5569,19 +5561,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/src\/scss\/core\/_atoms.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 1,
-		"oA": 1,
-		"oAP": "\/dist\/css\/_atoms.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/src\/scss\/core\/_buttons.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -5617,6 +5596,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "\/dist\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/scss\/core\/_placeholders.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/dist\/css\/_placeholders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
