@@ -16,12 +16,12 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	font-weight: 900;
+	font-weight: 700;
 	line-height: 1.2;
 }
 
 p {
-	margin: 0 0 $verticalRhythm;
+	margin: 0 0 $spacingUnit;
 }
 
 // Small
@@ -33,7 +33,10 @@ h5 { @include baseHeadingFontSize(1.2em) }
 h6 { @include baseHeadingFontSize(1em) }
 
 
-%headings-following-paragraphs { margin-top: $verticalRhythm; }
+%headings-following-paragraphs { margin-top: $spacingUnit; }
+%headings-following-headings { margin-top: $spacingUnit; }
+%paragraphs-following-headings { margin-top: $spacingUnit / 2; }
+
 @each $headingSize in $headingSizes {
 
 	// Headings following paragraphs
@@ -46,14 +49,14 @@ h6 { @include baseHeadingFontSize(1em) }
 	// Headings following headings
 	@each $headingSizeNested in $headingSizes {
 		#{$headingSize} + #{$headingSizeNested} {
-			@extend %headings-following-paragraphs;
+			@extend %headings-following-headings;
 		}
 	}
 }
 
-// Paragraphs following headings
-%paragraphs-following-headings { margin-top: $verticalRhythm / 2; }
 @each $pElement in (p, ul) {
+
+	// Paragraphs following headings
 	h1, h2, h3, h4, h5, h6 {
 		& + #{$pElement} {
 			@extend %paragraphs-following-headings;
@@ -79,7 +82,7 @@ a {
 // -----------
 blockquote {
 	margin: 0;
-	margin-bottom: $verticalRhythm;
+	margin-bottom: $spacingUnit;
 	padding: 0;
 	padding-left: 1rem;
 	border-left: 5px solid $primary;
