@@ -1,12 +1,16 @@
 // Default content padding
 // -----------------------
+
+$paddingSmall: $spacingUnit * 2;
+$paddingLarge: $spacingUnit * 4;
+
 %padded {
-    padding: $spacingUnit * 2 0 $spacingUnit;
+    padding: $paddingSmall 0 ($paddingSmall - $spacingUnit);
 }
 
 %padded-double {
     @extend %padded;
     @include breakpoint(medium) {
-        padding: $spacingUnit * 4 0 $spacingUnit * 3;
+        padding: $paddingLarge 0 ($paddingLarge - $spacingUnit);
     }
 }
