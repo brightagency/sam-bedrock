@@ -20,8 +20,8 @@
 // Account for iPhone X in Foundation rows
 // ---------------------------------------
 .grid-x {
-    padding-right: constant(safe-area-inset-right);
-    padding-left: constant(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+    padding-left: env(safe-area-inset-left);
 }
 
 // Import the surface
