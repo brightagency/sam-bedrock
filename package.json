@@ -16,9 +16,7 @@
   "dependencies": {
     "foundation-sites": "^6.4.1",
     "jquery-match-height": "^0.7.2",
-    "motion-ui": "^1.2.2"
-  },
-  "resolutions": {
-    "jquery": "2.2.4"
+    "motion-ui": "^1.2.2",
+    "sjd-scss": "^1.0.0"
   }
 }
