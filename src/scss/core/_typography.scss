@@ -33,6 +33,7 @@ h5 { @include baseHeadingFontSize(1.2em) }
 h6 { @include baseHeadingFontSize(1em) }
 
 
+%headings-at-ends-of-sections { margin-bottom: $spacingUnit; }
 %headings-following-paragraphs { margin-top: $spacingUnit; }
 %headings-following-headings { margin-top: $spacingUnit; }
 %paragraphs-following-headings { margin-top: $spacingUnit / 2; }
@@ -46,10 +47,16 @@ h6 { @include baseHeadingFontSize(1em) }
 		}
 	}
 
-	// Headings following headings
 	@each $headingSizeNested in $headingSizes {
+
+		// Headings following headings
 		#{$headingSize} + #{$headingSizeNested} {
 			@extend %headings-following-headings;
+		}
+		
+		// Headings at ends of sections
+		* > #{$headingSize} {
+			@extend %headings-at-end-of-section;
 		}
 	}
 }
