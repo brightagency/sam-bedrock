@@ -15,23 +15,25 @@
 
                         <?php while ( have_posts() ) : the_post(); ?>
 
-                            <article <?php post_class('search-result'); ?>>
-
-                                <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
-
-                                <p class="dateline">
-                                    <?php echo get_post_type_labels( get_post_type_object( get_post(get_the_id())->post_type ) )->singular_name; ?>
-                                    &nbsp;|&nbsp;
-                                    Last updated <?php the_time('jS F Y'); ?>
-                                </p>
-
-                                <?php the_excerpt(); ?>
-
-                                <p class="permalink">
-                                    <a href="<?php the_permalink(); ?>"><?php the_permalink(); ?></a>
-                                </p>
-
-                            </article>
+                            <div class="container">
+                                <article <?php post_class('search-result'); ?>>
+    
+                                    <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
+    
+                                    <p class="dateline">
+                                        <?php echo get_post_type_labels( get_post_type_object( get_post(get_the_id())->post_type ) )->singular_name; ?>
+                                        &nbsp;|&nbsp;
+                                        Last updated <?php the_time('jS F Y'); ?>
+                                    </p>
+    
+                                    <?php the_excerpt(); ?>
+    
+                                    <p class="permalink">
+                                        <a href="<?php the_permalink(); ?>"><?php the_permalink(); ?></a>
+                                    </p>
+    
+                                </article>
+                            </div>
 
                         <?php endwhile; ?>
 
@@ -65,5 +67,4 @@
     </div>
 
 </section>
-
 <?php get_footer(); ?>
