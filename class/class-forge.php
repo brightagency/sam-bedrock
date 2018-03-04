@@ -72,7 +72,7 @@ class Forge {
         }
 
         // Page item has children
-        if (count(get_children(['post_parent' => $page_id]))) {
+        if ( count( self::get_page_children($page_id) ) ) {
             $classes[] = 'has_children';
         }
 
@@ -89,6 +89,14 @@ class Forge {
 
         // Space separated string of classes
         return implode(' ', $classes);
+    }
+    
+    public static function get_page_children($page_id) {
+        return get_children([
+            'post_parent' => $page_id,
+            'post_type' => 'page',
+            'post_status' => 'publish'
+        ]);
     }
 
 }
