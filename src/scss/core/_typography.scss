@@ -56,7 +56,7 @@ h6 { @include baseHeadingFontSize(1em) }
 		
 		// Headings at ends of sections
 		* > #{$headingSize} {
-			@extend %headings-at-end-of-section;
+			@extend %headings-at-ends-of-sections;
 		}
 	}
 }
