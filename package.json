@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/weareforge/sam-bedrock#readme",
   "dependencies": {
-    "foundation-sites": "^6.4.1",
+    "foundation-sites": "^6.4.3",
     "jquery-match-height": "^0.7.2",
-    "motion-ui": "^1.2.2",
+    "motion-ui": "^1.2.3",
     "sjd-scss": "^1.0.0"
   }
 }

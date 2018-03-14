@@ -37,6 +37,35 @@ function wpdocs_theme_add_editor_styles() {
 }
 add_action( 'admin_init', 'wpdocs_theme_add_editor_styles' );
 
+/*
+|--------------------------------------------------------------------------
+| Bright Color Theme
+|--------------------------------------------------------------------------
+*/
+
+// Create our colour theme
+add_action( 'init', function() {
+    wp_admin_css_color( 
+        'bright', // id
+        'Bright', // name
+        get_template_directory_uri() . '/dist/css/admin-colors.css', // stylesheet uri
+        ['#222222', '#333333', '#c43333', '#f03f3c'] // display colours
+    );
+});
+
+// Make sure it's always the default for new users
+add_action('user_register', function ($user_id) {
+    $args = array(
+        'ID' => $user_id,
+        'admin_color' => 'bright'
+    );
+    wp_update_user( $args );
+});
+
+// Disable color theme switching for non ID = 1 users
+if ( get_current_user_id() != 1 ) {
+    remove_action( 'admin_color_scheme_picker', 'admin_color_scheme_picker' );
+}
 
 /*
 |--------------------------------------------------------------------------
@@ -59,8 +88,10 @@ add_theme_support( 'post-thumbnails' );
 
 /*
 |--------------------------------------------------------------------------
-| Include the Forge class
+| Include extra files
 |--------------------------------------------------------------------------
 */
 
+include_once get_template_directory() . '/parts/client-backend-setup.php';
 include_once get_template_directory() . '/class/class-forge.php';
+include_once get_template_directory() . '/parts/cpt.php';

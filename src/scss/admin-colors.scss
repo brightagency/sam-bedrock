@@ -1,0 +1,51 @@
+// sass-lint:disable no-important
+
+$text-color: #fff;
+$base-color: #23282d;
+$icon-color: hsl( hue($base-color), 7%, 95%);
+$highlight-color: #f03f3c;
+$notification-color: #d54e21;
+
+// Default Link Placeholder
+%link-color {
+    color: $highlight-color;
+    &:hover {
+        border-color: transparent;
+        color: lighten($highlight-color, 10%);
+    }
+}
+
+.wp-core-ui {
+
+    // Change all general links
+    a {
+        @extend %link-color;
+    }
+
+    // Add page/post button
+    .page-title-action,
+    .add-new-h2 {
+        @extend %link-color;
+    }
+
+    // Tag Cloud Link
+    .button-link {
+        @extend %link-color;
+    }
+
+
+    // Nested Pages Support
+    .np-btn-trash {
+        color: $text-color;
+    }
+    .np-btn {
+        &:hover {
+            border-color: darken($highlight-color, 10%) !important;
+            background-color: $highlight-color !important;
+            color: $text-color !important;            
+        }
+    }
+
+}
+
+@import '../../../../../wp-admin/css/colors/admin';
