@@ -3,7 +3,7 @@
 "buildSteps": [
 	{
 		"name": "Install Yarn\/NPM Dependencies",
-		"scriptSourceString": "yarn install --flat",
+		"scriptSourceString": "yarn",
 		"scriptType": 1,
 		"scriptUUIDString": "B9AC4B79-F8CF-4CBB-8D1D-3050BDEEBA7B",
 		"stepType": 2,
@@ -38,6 +38,17 @@
 		"oAP": "\/dist\/acf-json\/.gitignore",
 		"oF": 0
 		},
+	"\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 32239,
+		"oA": 0,
+		"oAP": "\/dist\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/archive.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -50,6 +61,12 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/dist\/class\/class-forge.php",
+		"oF": 0
+		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/dist\/dist",
 		"oF": 0
 		},
 	"\/footer.php": {
@@ -2382,9 +2399,9 @@
 	"creationDate": 500423975,
 	"displayValue": "Sam Bedrock",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-ive",
+	"iconImageName": "\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 544966512
+	"lastBuiltDate": 544966715
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
