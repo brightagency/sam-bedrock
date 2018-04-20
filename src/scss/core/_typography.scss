@@ -25,12 +25,12 @@ p {
 }
 
 // Small
-h1 { @include baseHeadingFontSize(2.2em) }
-h2 { @include baseHeadingFontSize(1.8em) }
-h3 { @include baseHeadingFontSize(1.6em) }
-h4 { @include baseHeadingFontSize(1.4em) }
-h5 { @include baseHeadingFontSize(1.2em) }
-h6 { @include baseHeadingFontSize(1em) }
+h1 { @include baseHeadingFontSize(rem-calc(36px)); }
+h2 { @include baseHeadingFontSize(rem-calc(28px)); }
+h3 { @include baseHeadingFontSize(rem-calc(24px)); }
+h4 { @include baseHeadingFontSize(rem-calc(22px)); }
+h5 { @include baseHeadingFontSize(rem-calc(18px)); }
+h6 { @include baseHeadingFontSize(rem-calc(16px)); }
 
 
 %headings-at-ends-of-sections { margin-bottom: $spacingUnit; }

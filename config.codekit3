@@ -15,7 +15,7 @@
 		"uuidString": "AC41FCB4-6EDE-4360-AEDB-009E97A4BB1A"
 		}
 	],
-"creatorBuild": "26667",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -2651,7 +2651,7 @@
 	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
+	"bowerAutoCreateInfoFile": 0,
 	"bowerInstallDevDependencies": 0,
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
