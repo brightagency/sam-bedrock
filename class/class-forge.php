@@ -95,8 +95,43 @@ class Forge {
         return get_children([
             'post_parent' => $page_id,
             'post_type' => 'page',
-            'post_status' => 'publish'
+            'post_status' => 'publish',
+            'order' => 'ASC',
+            'orderby' => 'menu_order'
         ]);
     }
 
+    public static function get_content_by_id($id = false) {
+
+        if ( !$id ) $id = get_the_id();
+
+        $post = get_post($id);
+
+        $content = $post->post_content;
+        $content = apply_filters('the_content', $content);
+        $content = str_replace(']]>', ']]&gt;', $content);
+
+        return $content;
+    }
+
+    public static function get_first_paragraph($include_p_tags = true) {
+        global $post;
+        $str = wpautop( get_the_content() );
+        $str = substr( $str, 0, strpos( $str, '</p>' ) + 4 );
+        $str = strip_tags($str, '<a><strong><em>');
+        if ($include_p_tags) {
+            $str = '<p>' . $str . '</p>';
+        }
+        return $str;
+    }
+
+    public static function limit_text($text, $limit) {
+        if (str_word_count($text, 0) > $limit) {
+            $words = str_word_count($text, 2);
+            $pos = array_keys($words);
+            $text = substr($text, 0, $pos[$limit]) . '...';
+        }
+        return $text;
+    }
+ 
 }
